@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NirogApplication</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="app_information">App that help to stay safe in healthy life</string>
+    <string name="covid19">Covid-19 App</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="goto_previous_questions">Go to previous Questions</string>
+</resources>
